@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<orderlist>
+
+  <order id="11">
+    <id>12</id>
+    <customer>qqasdf</customer>
+    <products>milk (qty): 100;</products>
+    <totalprice>110ww</totalprice>
+  </order>
+
+  <order id="1">
+    <id>1</id>
+    <customer>jimff</customer>
+    <products>     Plums (qty): 10;      Avocado (qty): 12;    </products>
+    <totalprice>23</totalprice>
+  </order>
+
+  <order id="2">
+    <id>2</id>
+    <customer>xav</customer>
+    <products>
+      Fresh Canadian Atlantic Salmon Fillet (qty): 2;
+      Crab flavoured pollock flakes (qty): 2;
+    </products>
+    <totalprice>44</totalprice>
+  </order>
+
+  <order id="3">
+    <id>3</id>
+    <customer>jane</customer>
+    <products>
+      Plums (qty): 10;
+      Avocado (qty): 12;
+    </products>
+    <totalprice>23</totalprice>
+  </order>
+
+
+
+
+  
+</orderlist>
